@@ -1,0 +1,23 @@
+0;Typ wyliczeniowy i aliasy;(definicja aliasu, definicja typu wyliczeniowego, praca z typem wyliczeniowym;, różnica miedzy enum a enum class, zastosowania aliasów w programowaniu).
+0;Struktury; (pojęcie struktury, definicja i instancja struktury, komunikacja z polami struktury;, operacje wskaźnikowe ze strukturami, proceduralne przetwarzanie struktur).
+0;Jednostki translacji; (Pojęcie jednostki translacji, zasady podziału na pliki, działanie mechanizmów zapobiegania wielokrotnemu dołączaniu;, zapobieganie dołączeniom cyklicznym, działanie i zastosowanie +extern).
+0;Polimorfizm proceduralny; (zasady przeciążania nazw funkcji, pojęcie polimorfizmu statycznego, pojęcie polimorfizmu dynamicznego;, definiowanie wskaźników na funkcję, wpływ domyślnych wartości argumentów na działanie polimorfizmu).
+0;Przekazywanie tablic do/z funkcji; (przekazywanie tablicy przez wskaźnik/referencję, przekazywanie tablic dynamicznych, zwracanie wskaźnika/referencji;, zmienne statyczne, przekazywanie tablicy przez wartość (z kopią)).
+0;Dynamiczna alokacja pamięci; (alokacja/zwalnianie pamięci, czas życia alokacji, wyciek pamięci;, rodzaje alokacji tablic wielowymiarowych, rozpoznawanie rodzaju i rozmiaru alokacji).
+0;Operacje bitowe; (podstawowe operacje plikowe, maski bitowe, zadawanie liczb w systemie heksadecymalnym;, ustawianie/odczyt stanu na konkretnym bicie, sposoby kompresji danych z użyciem operacji bitowych).
+0;Operacje plikowe; (tryby pracy z plikami otwieranie/zamykanie plików, głowica komunikacyjna;, ręczne pozycjonowanie głowicy, działanie flagi EOF).
+1;Klasy; (koncepcja programowania obiektowego, pojęcie klasy/instancji, zasada enkapsulacji – pola i akcesory;, składniki statyczne i instancyjne, korzyści z enkapsulacji).
+1;Konstruktory i destruktor; (pojęcie konstruktora/destruktora, rodzaje konstruktorów, lista inicjalizacyjna konstruktora,; inicjalizacja pól klasy, kolejność wywoływania konstruktorów w kompozycji i dziedziczeniu).
+1;Instancje stałe; (co to jest instancja stała, kiedy występuje, metody do pracy na instancjach stałych;, inicjalizacja pól instancji stałej, pola mutable).
+1;Interakcje obiektowe; (asocjacja, agregacja, kompozycja;, różnice miedzy asocjacją a agregacją, różnice miedzy agregacją a kompozycją).
+1;Dziedziczenie i polimorfizm obiektowy; (dziedziczenie, sekcja prywatna i chroniona, metody wirtualne i polimorfizm;, rodzaje dziedziczenia, wyjątki przy dziedziczeniu/napisanie składników).
+1;Hierarchie klas;  (rodzaje hierarchii dziedziczenia, dziedziczenie wielopoziomowe, klasa abstrakcyjna;, dziedziczenie wielobazowe, dziedziczenie wirtualne, ).
+2;Operatory ;(sposoby przeciążania operatorów, typy operatorów (liczba argumentów), relacja przyjaźni,; pojęcie i działanie funktora, przeciążanie pre- i post- inkrementacji).
+2;Konwersje ;(typy konwersji formalnych, konwersje nieformalne, blokada konwersji niejawnych,; dyskusja, doboru typu konwersji, typy rzutowania w C++).
+2;Kopiowanie instancji ;(kiedy pojawia się problem kopii płytkiej i głębokiej, jak działa kopia płytka i głęboka, czym jest operacja przeniesienia,; inteligentne wskaźniki, działanie Copy-On-Write).
+2;Narzędzia STL;  (rodzaje kontenerów, omówienie wybranego narzędzia przy pomocy dokumentacji języka, iteratory;, czym różni się losowanie liczb w C++ od C, dyskusja doboru typu kolekcji, ).
+2;Szablony; (koncepcja szablonu, szablony funkcji i klas, co może być parametrem szablonu;, specjalizacje szablonów, kompatybilność szablonów).
+3;Działanie GUI w Qt ;(jak tworzymy własne ono w Qt, omówienie wybranej kontrolki na bazie dokumentacji, relacja rodzić dziecko,; klasa ukryta, obsługa zdarzeń w Qt ).
+3;Sygnały i sloty; (pojęcie sygnału i slotu, pojęcie emitera i odbiornika, automatyczne łączenie po nazwach, ręczne łączenie sygnałów i slotów,; co można łączyć).
+3;Projektowanie aplikacji ;(layout’y i spacery, komunikacja między oknami, poznane modele aplikacji,; autodestrukcja okna, omówienie warstw modelu 3W).
+3;Refaktoryzacja; (pojęcie refaktoryzacji, wybrane przekształcenie strukturalne, wybrane przekształcenie obiektowe;, cele refaktoryzacji, porównanie refaktoryzacji do optymalizacji).

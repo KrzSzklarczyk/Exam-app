@@ -1,0 +1,18 @@
+0;Typy danych i obliczenia matematyczne ;(fundamentalne typy danych, zasady wykonywania obliczeń, dzielenie całkowite/rzeczywiste,; funkcje matematyczne, przykład optymalizacja obliczeń).
+0;Instrukcje sterujące; (instrukcje warunkowe, instrukcje iteracyjne, dobór typu instrukcji do zadania, ;optymalizacja instrukcji warunkowych i iteracyjnych, tabelaryzacja logiki).
+0;Operatory ;(przykłady użycia operatorów arytmetycznych, logicznych i złożonych operatory przypisania, post/pre inkrementacja,; optymalizacja wyrażeń logicznych).
+0;Operacje WE/WY ;(wyświetlanie tekstu i zmiennych, znaki sterujące w tekście, wczytywanie liczb i znaków do zmiennych,; wyświetlanie tablic jedno i dwuwymiarowych, sterowanie precyzją i formatem wyświetlania).
+0;Tablice; (tworzenie inicjalizacja tablic, indeksowanie i operacje na elementach tablicy, budowa tablicy w pamięci i ochrona pamięci,; tablice wielowymiarowe – budowa i działanie, kopia binarna i element-po-elemencie).
+0;Losowanie liczb; (pozyskiwanie wartości losowych i posiew generatora, losowanie liczb całkowitych w zakresie; losowanie liczb rzeczywistych w zakresie, losowanie wartości ze zbioru, losowanie bez zwracania)
+0;Łańcuchy znakowe; (budowa c-stringu, różnica miedzy c-stringiem a znakiem, znaczenie znaku NULL; typowe funkcje operujące na c-stringach, wczytywanie i formatowanie łańcuchów znakowych).
+0;Wskaźniki; (tworzenie, ustawianie i uziemienie wskaźnika, dereferencja wskaźnika, dopuszczalne operacje na wskaźnikach;, znaczenie const w deklaracji wskaźników, różnica miedzy wskaźnikiem a referencją).
+0;Preprocesor i organizacja kodu; (dołączanie bibliotek, struktura programu, sposoby zapisu komentarzy w kodzie;, makrodefinicje, typy kompilacji warunkowej).
+0;Stałe i zmienne; (pojęcie stałej i zmiennej operacje dozwolone na stałych, inicjalizacja stałych i zmiennych;, sens istnienia stałych w kodzie, różnica miedzy const i constexpr).
+1;Błędy czasu kompilacji; (pojęcie błędu czasu kompilacji, objawy błędów czasu kompilacji, strategia usuwania błędów czasu kompilacji,; znaczenie nullptr w diagnostyce kodu, błędy linkera).
+1;Błędy czasu wykonania; (pojęcie błędu czasu wykonania, objawy błędów czasu wykonania,; strategia usuwania błędów czasu wykonania, izolacja i stabilizacja błędów, konsekwencje braku inicjalizacji zmiennych).
+1;Funkcje; (pojęcie i zastosowania funkcji, budowa definicji funkcji, użycie funkcji w kodzie,; przebieg sterowania przy wielokrotnie zagnieżdżonym wywołaniu funkcji, rekurencja).
+1;Sposoby komunikacji z funkcją; (przekazywanie wartości i zmiennych do funkcji , przekazywanie tablic 1D do funkcji,; odbieranie wyniku z funkcji, sposoby sygnalizacji poprawności funkcji, przekazanie i praca na tablicy 2D).
+1;Dokładność numeryczna; (dokładność liczb zmiennoprzecinkowych, porównywanie liczb zmiennoprzecinkowych,; pętle z licznikiem rzeczywistym, przykłady problemów gdzie dokładność numeryczna ma znaczenie kompensacja błędów numerycznych).
+1;Algorytmy numeryczne; (pojęcie algorytmu numerycznego, przykład algorytmu numerycznego, rodzaje zbieżności;, kryteria zbieżności, szacowanie czasu wykonania algorytmu).
+1;Typ wyliczeniowy i aliasy; (definicja aliasu, definicja typu wyliczeniowego, praca z typem wyliczeniowym;, różnica miedzy enum a enum class, zastosowania aliasów w programowaniu).
+1;Struktury; (pojęcie struktury, definicja i instancja struktury, komunikacja z polami struktury;, operacje wskaźnikowe ze strukturami, proceduralne przetwarzanie struktur).

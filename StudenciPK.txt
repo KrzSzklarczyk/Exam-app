@@ -1,0 +1,3 @@
+Jan Kowalski;3;4.1;5.2;5.5
+Adrian Jop;3;3.4;4;4.6
+Krzysztof Szklarczyk;5;5;5;5
